@@ -1,0 +1,12 @@
+/*phil welsby - 13 aug 2021 - example of how to use switch*/
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+button {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
